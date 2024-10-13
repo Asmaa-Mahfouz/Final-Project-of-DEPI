@@ -1,5 +1,5 @@
 # Final-Project-of-DEPI
-Supply Chain  data Analysis using Tableau
+Supply Chain data Analysis 
 Data source:
 The company “obviEnce” created this sample using real, anonymized data.
 linl to dataset:https://learn.microsoft.com/en-us/power-bi/create-reports/sample-supplier-quality
@@ -22,6 +22,8 @@ Outline methods and tools:
 5.	Data Modeling:  Power Query
 6.	Data Visualization : Tableau
 7.	Reporting : Microsoft Word – Gemini – ChatGPT
+
+	
 open 'final erport ' file to shoe technical details in cleaning and other procedures
 
    
